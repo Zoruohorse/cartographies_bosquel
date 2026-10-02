@@ -1,0 +1,137 @@
+[
+  {
+    "id": "source_0001",
+    "title": "Courrier picard ",
+    "publisher": "Courrier picard ",
+    "description": "Courrier picard : Quotidien régional de référence, source centrale sur le calendrier des délibérations de la CC2SO et les contributions des habitants.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0002",
+    "title": "Mediacités ",
+    "publisher": "Mediacités ",
+    "description": "Mediacités : Média d'investigation locale indépendant ayant mis en lumière les clauses d'indemnisation financière opaques signées avec l'ancien opérateur L'Européenne.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0003",
+    "title": "L’Informé ",
+    "publisher": "L’Informé ",
+    "description": "L’Informé : Journal économique spécialisé ayant révélé le différend commercial hors site opposant Sesterce à l'acteur tricolore Mistral AI.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0004",
+    "title": "La Tribune / Le Figaro / Bloomberg ",
+    "publisher": "La Tribune / Le Figaro / Bloomberg ",
+    "description": "La Tribune / Le Figaro / Bloomberg : Couverture macro-économique internationale explicitant les coulisses du pivot de Fluidstack vers les États-Unis au détriment du site de Picardie.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0005",
+    "title": "ici Picardie / France 3 Hauts-de-France ",
+    "publisher": "ici Picardie / France 3 Hauts-de-France ",
+    "description": "ici Picardie / France 3 Hauts-de-France : Audiovisuels publics régionaux ayant diffusé les interviews techniques de Martine Delépine et du préfet Rollon Mouchel-Blaisot.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0006",
+    "title": "Services RTE / L’Usine Nouvelle / Next INpact ",
+    "publisher": "Services RTE / L’Usine Nouvelle / Next INpact ",
+    "description": "Services RTE / L’Usine Nouvelle / Next INpact : Sources institutionnelles et sectorielles documentant la mise en œuvre technique de la procédure de raccordement d'urgence Fast Track approuvée par la CRE.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0007",
+    "title": "BFMTV ",
+    "publisher": "BFMTV ",
+    "description": "BFMTV : Décryptage des tensions sur le réseau RTE et de la réforme 'premier à l'heure, premier servi'.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0008",
+    "title": "Libération ",
+    "publisher": "Libération ",
+    "description": "Libération : Couverture détaillée du recours administratif contre le site Sesterce de la Drôme et de la stratégie des opposants.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0009",
+    "title": "L'Opinion ",
+    "publisher": "L'Opinion ",
+    "description": "L'Opinion : Analyse macroéconomique sur la nouvelle géographie des pouvoirs et les enjeux d'acceptation sociale dans la 'France périphérique'.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0010",
+    "title": "France 3 Régions ",
+    "publisher": "France 3 Régions ",
+    "description": "France 3 Régions : Mise en évidence des dynamiques de reconversion de friches locales et relais de l'indignation des anciens salariés du secteur agro-industriel.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0011",
+    "title": "La Voix de France ",
+    "publisher": "La Voix de France ",
+    "description": "La Voix de France : Couverture macro-économique du sommet Choose France, officialisant l'engagement structurel et financier de SoftBank (45 milliards d'euros) sur le site.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0012",
+    "title": "DCmag ",
+    "publisher": "DCmag ",
+    "description": "DCmag : Entretien du 9 septembre 2026 avec Grégory Berkovicz, cabinet GB2A, documentant le second AMI, le bail à construction, la maturité du marché, les calendriers industriels et les risques d’acceptabilité sociale.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0013",
+    "title": "Débat public ",
+    "publisher": "Débat public ",
+    "description": "Débat public : Fiche du 2 septembre 2026 consacrée au Bosquel AI Factory, précisant une emprise de 64 hectares, une puissance totale de 1 400 MW, 12 à 16 pods, deux tranches, un raccordement RTE à 400 000 V et un coût de 15 à 20 milliards d’euros hors matériel informatique.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0014",
+    "title": "Le Nouvel Économiste ",
+    "publisher": "Le Nouvel Économiste ",
+    "description": "Le Nouvel Économiste : Article du 14 septembre 2026 replaçant le Bosquel dans le programme SoftBank des Hauts-de-France et documentant environ 400 emplois qualifiés, un fonds de dotation de 10 millions d’euros et un centre communautaire.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0015",
+    "title": "La Voix de France ",
+    "publisher": "La Voix de France ",
+    "description": "La Voix de France : Article du 7 août 2026 sur l’engagement national de SoftBank, la première phase de 3,1 GW dans les Hauts-de-France et les partenariats industriels associés.",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  }
+]

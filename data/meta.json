@@ -1,0 +1,93 @@
+{
+  "id": "project_bosquel",
+  "title": "Cartographie interactive — Campus numérique et industriel du Bosquel",
+  "subtitle": "Projet de campus IA et de supercalculateur sur la ZAC du Bosquel, avec enjeux de raccordement, d’eau, de souveraineté et d’acceptabilité territoriale.",
+  "last_updated": "2026-10-02",
+  "data_notice": "Les éléments sont repris des deux fichiers fournis. Les URL et justifications documentaires absentes restent à qualifier.",
+  "griefs": [
+    {
+      "title": "☣️ Inquiétude sur l’eau",
+      "text": "Point de tension majeur renforcé par les volumes d'eau critiques requis pour le refroidissement des baies de calcul, les risques de sécheresse cumulative, les conflits d'usage avec le milieu agricole local et la stricte compatibilité réglementaire avec les objectifs de nappe fixés par le SAGE."
+    },
+    {
+      "title": "💧 Nappe phréatique",
+      "text": "Ressource hydrique souterraine dont le niveau et la capacité de renouvellement sont fortement interrogés par les riverains et experts au regard des prélèvements requis par le projet, menaçant la résilience des communes environnantes."
+    },
+    {
+      "title": "💼 Crédibilité des porteurs",
+      "text": "Sujet de vigilance soulevé en interne par RTE visant à sortir de la logique passive 'premier demandeur, premier servi' afin de sécuriser l'allocation de puissance du réseau haute tension (1 GW) uniquement au profit d'opérateurs disposant de surfaces financières matures."
+    },
+    {
+      "title": "📑 Séisme Fluidstack",
+      "text": "L'épisode de retrait surprise de Fluidstack fragilise temporairement le plan d'attractivité numérique national. Les documents soulignent un arbitrage de nature financière et un pivot stratégique prioritaire du marché au profit des géants de la Big Tech américaine (Anthropic, Google)."
+    },
+    {
+      "title": "🔒 Souveraineté en question",
+      "text": "Argument central brandi par l'exécutif pour légitimer la structure d'accueil 'clés en main' Fast Track, mais frontalement mis à mal par l'opposition territoriale en raison de la dépendance exclusive aux capitaux du japonais SoftBank et aux puces Nvidia."
+    },
+    {
+      "title": "⚖️ Faille ICPE / Sécurité",
+      "text": "Suspicion de contournement de la législation environnementale par l'opérateur Sesterce, consistant à sous-dimensionner la capacité de ses groupes électrogènes dans ses dossiers pour échapper au classement strict ICPE et à l'enquête publique."
+    },
+    {
+      "title": "⚡ Spéculation Capacitaire",
+      "text": "Nouveau paradigme de blocage des réseaux RTE dû à des développeurs réservant d'immenses capacités de raccordement dans le seul but de valoriser financièrement des projets non matures."
+    },
+    {
+      "title": "🏭 Effet d'aubaine foncier (Poulainville)",
+      "text": "La reconversion éclair de la friche voisine d'Ynsect, avec une allocation étatique de 700 MW pour un potentiel data center, renforce l'idée d'une prolifération incontrôlée d'infrastructures électro-intensives dans un rayon restreint autour d'Amiens."
+    },
+    {
+      "title": "📐 Changement d’échelle officiel",
+      "text": "La fiche de saisine décrit désormais un campus de 1 400 MW sur 64 hectares, composé de 12 à 16 unités de calcul modulaires. Ce dimensionnement dépasse nettement les références historiques de 1 GW et 46 hectares contenues dans la base."
+    },
+    {
+      "title": "💶 Coût global hors équipements informatiques",
+      "text": "Le coût d’infrastructure est estimé entre 15 et 20 milliards d’euros, sans inclure les serveurs, les puces et les autres équipements informatiques, ce qui empêche encore d’établir le coût complet du projet."
+    },
+    {
+      "title": "📅 Risque de calendrier irréaliste",
+      "text": "Les délais industriels réels comprennent l’autorisation administrative, les recours éventuels, la construction des bâtiments, le raccordement électrique et l’installation des équipements. Les annonces de mise en service très rapide doivent donc être considérées avec prudence."
+    },
+    {
+      "title": "🏘️ Retombées territoriales limitées",
+      "text": "Environ 400 emplois qualifiés, un fonds de dotation de 10 millions d’euros et un centre communautaire sont annoncés, mais leur ampleur reste limitée au regard des 64 hectares mobilisés, des 1 400 MW demandés et des investissements globaux."
+    }
+  ],
+  "vigilance": [
+    "Crédibilité et Dimensionnement : Inquiétudes formalisées (notamment relayées par RTE et Mediacités) sur la surface financière propre de la jeune pousse Sesterce pour assumer un site d'une telle envergure (1 GW), contrastant avec le poids capitalistique écrasant de SoftBank.",
+    "Ressources Hydriques et SAGE : Opposition technique documentée concernant la gestion de l'eau (conflits d'usage vs circuit fermé défendu par l'architecte Damien Patriarche), avec des craintes directes de rupture sur la nappe phréatique en période de sécheresse.",
+    "Opacité Administrative et Foncier : L'association de protection du Bosquel et les maires des communes périphériques dénoncent un manque flagrant de concertation de la CC2SO, accentué par les conditions financières opaques du protocole transactionnel avec L’Européenne.",
+    "Paradoxe de Souveraineté Numérique : Le cadre législatif accéléré sert l'indépendance de calcul nationale, mais le foncier (bail de 99 ans) et les infrastructures d'exploitation dépendent d'intérêts financiers extracommunautaires et du droit extraterritorial sous-jacent.",
+    "Jurisprudence Alixan : La décision du TA de Grenoble face aux griefs du collectif Assez-DC créera un précédent immédiat sur la légalité des dossiers Sesterce, notamment sur l'exigence d'étude d'impact pour les systèmes de refroidissement/secours.",
+    "Effet boomerang du PINM : Une potentielle classification du site par l'État en 'Projet d’intérêt national majeur' pourrait se retourner contre les promoteurs en braquant l'opinion publique et en court-circuitant l'acceptation sociale locale.",
+    "Cumul capacitaire (RTE) : L'ajout d'une capacité potentielle de 700 MW à Poulainville, s'additionnant au 1 GW pré-réservé au Bosquel, interroge sur la soutenabilité du réseau de transport d'électricité dans la Somme et sur les risques réels de conflits d'usage avec d'autres filières.",
+    "Puissance officielle : La fiche de débat public indique 1 400 MW, contre 1 GW dans plusieurs sources antérieures. Conserver l’historique et utiliser 1 400 MW comme dernier dimensionnement officiel disponible.",
+    "Emprise foncière : Le projet couvre désormais 64 hectares, dont 47 hectares pour la première tranche et 17 hectares pour la seconde, contre 46 hectares dans le sous-titre actuel de la base.",
+    "Coût non exhaustif : L’estimation comprise entre 15 et 20 milliards d’euros exclut le matériel informatique. Elle ne correspond donc ni au coût complet du Bosquel ni à l’enveloppe nationale globale de SoftBank.",
+    "Phasage industriel : La première tranche prévoit 8 à 10 pods et 920 MW ; la seconde prévoit 4 à 6 pods et 460 MW. Les autorisations et calendriers doivent être suivis séparément pour chaque tranche.",
+    "Raccordement RTE : La création d’un poste électrique interne et la modification de lignes aériennes à 400 000 V élargissent l’emprise et les impacts potentiels du projet au-delà des seuls bâtiments de calcul.",
+    "Premier AMI : Les candidats initiaux sont décrits comme insuffisamment financés et dépourvus de garanties minimales, mais ils ne sont pas identifiés. Aucun rapprochement automatique avec Fluidstack ne doit être effectué.",
+    "Calendriers annoncés : Les durées de permis, de recours, de construction et d’installation rendent peu crédibles les annonces de réalisation en quelques mois.",
+    "Emplois annoncés : Les 400 emplois qualifiés ne sont pas ventilés entre emplois temporaires de chantier, emplois directs d’exploitation et emplois indirects.",
+    "Souveraineté à plusieurs niveaux : Le bail à construction préserve la propriété publique du sol, mais la souveraineté financière, technologique et énergétique reste à apprécier séparément.",
+    "Probabilité d’aboutissement : L’estimation sectorielle selon laquelle seuls 20 % des projets sortiront ne constitue pas une évaluation officielle de la probabilité de réalisation du Bosquel."
+  ],
+  "source_descriptions": [
+    "Courrier picard : Quotidien régional de référence, source centrale sur le calendrier des délibérations de la CC2SO et les contributions des habitants.",
+    "Mediacités : Média d'investigation locale indépendant ayant mis en lumière les clauses d'indemnisation financière opaques signées avec l'ancien opérateur L'Européenne.",
+    "L’Informé : Journal économique spécialisé ayant révélé le différend commercial hors site opposant Sesterce à l'acteur tricolore Mistral AI.",
+    "La Tribune / Le Figaro / Bloomberg : Couverture macro-économique internationale explicitant les coulisses du pivot de Fluidstack vers les États-Unis au détriment du site de Picardie.",
+    "ici Picardie / France 3 Hauts-de-France : Audiovisuels publics régionaux ayant diffusé les interviews techniques de Martine Delépine et du préfet Rollon Mouchel-Blaisot.",
+    "Services RTE / L’Usine Nouvelle / Next INpact : Sources institutionnelles et sectorielles documentant la mise en œuvre technique de la procédure de raccordement d'urgence Fast Track approuvée par la CRE.",
+    "BFMTV : Décryptage des tensions sur le réseau RTE et de la réforme 'premier à l'heure, premier servi'.",
+    "Libération : Couverture détaillée du recours administratif contre le site Sesterce de la Drôme et de la stratégie des opposants.",
+    "L'Opinion : Analyse macroéconomique sur la nouvelle géographie des pouvoirs et les enjeux d'acceptation sociale dans la 'France périphérique'.",
+    "France 3 Régions : Mise en évidence des dynamiques de reconversion de friches locales et relais de l'indignation des anciens salariés du secteur agro-industriel.",
+    "La Voix de France : Couverture macro-économique du sommet Choose France, officialisant l'engagement structurel et financier de SoftBank (45 milliards d'euros) sur le site.",
+    "DCmag : Entretien du 9 septembre 2026 avec Grégory Berkovicz, cabinet GB2A, documentant le second AMI, le bail à construction, la maturité du marché, les calendriers industriels et les risques d’acceptabilité sociale.",
+    "Débat public : Fiche du 2 septembre 2026 consacrée au Bosquel AI Factory, précisant une emprise de 64 hectares, une puissance totale de 1 400 MW, 12 à 16 pods, deux tranches, un raccordement RTE à 400 000 V et un coût de 15 à 20 milliards d’euros hors matériel informatique.",
+    "Le Nouvel Économiste : Article du 14 septembre 2026 replaçant le Bosquel dans le programme SoftBank des Hauts-de-France et documentant environ 400 emplois qualifiés, un fonds de dotation de 10 millions d’euros et un centre communautaire.",
+    "La Voix de France : Article du 7 août 2026 sur l’engagement national de SoftBank, la première phase de 3,1 GW dans les Hauts-de-France et les partenariats industriels associés."
+  ]
+}

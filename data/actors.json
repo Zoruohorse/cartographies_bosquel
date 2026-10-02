@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "project_bosquel",
+    "type": "project",
+    "name": "Campus numérique et industriel du Bosquel",
+    "short_name": "Campus IA Bosquel",
+    "description": "Projet de campus de calcul IA sur la ZAC du Bosquel, avec un dernier dimensionnement officiel disponible de 1 400 MW sur 64 hectares.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0001",
+    "type": "organization",
+    "name": "Société spécifique au Bosquel",
+    "short_name": "Société spécifique au Bosquel",
+    "description": "Société locale",
+    "roles": [
+      {
+        "label": "Société locale"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0002",
+    "type": "organization",
+    "name": "Fluidstack",
+    "short_name": "Fluidstack",
+    "description": "Ancien projet pressenti",
+    "roles": [
+      {
+        "label": "Ancien projet pressenti"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0003",
+    "type": "person",
+    "name": "Alain Desfosses",
+    "short_name": "Alain Desfosses",
+    "description": "Président de la CC2SO",
+    "roles": [
+      {
+        "label": "Président de la CC2SO"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0004",
+    "type": "person",
+    "name": "Laurent Snoeck",
+    "short_name": "Laurent Snoeck",
+    "description": "Directeur général des services",
+    "roles": [
+      {
+        "label": "Directeur général des services"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0005",
+    "type": "person",
+    "name": "Arnaud De Monclin",
+    "short_name": "Arnaud De Monclin",
+    "description": "Maire de Courcelles-sous-Thoix",
+    "roles": [
+      {
+        "label": "Maire de Courcelles-sous-Thoix"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0006",
+    "type": "organization",
+    "name": "Maison des Jeunes d’Hornoy-le-Bourg",
+    "short_name": "Maison des Jeunes d’Hornoy-le-Bourg",
+    "description": "Structure d'accueil",
+    "roles": [
+      {
+        "label": "Structure d'accueil"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0007",
+    "type": "organization",
+    "name": "État",
+    "short_name": "État",
+    "description": "Pouvoir public national",
+    "roles": [
+      {
+        "label": "Pouvoir public national"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0008",
+    "type": "organization",
+    "name": "Bercy",
+    "short_name": "Bercy",
+    "description": "Ministère de l'Économie",
+    "roles": [
+      {
+        "label": "Ministère de l'Économie"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0009",
+    "type": "person",
+    "name": "Anne Le Hénanff",
+    "short_name": "Anne Le Hénanff",
+    "description": "Ministre déléguée chargée de l’IA et du Numérique",
+    "roles": [
+      {
+        "label": "Ministre déléguée chargée de l’IA et du Numérique"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0010",
+    "type": "organization",
+    "name": "François Bayrou",
+    "short_name": "François Bayrou",
+    "description": "Ancien acteur gouvernemental/Haut-commissaire",
+    "roles": [
+      {
+        "label": "Ancien acteur gouvernemental/Haut-commissaire"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0011",
+    "type": "person",
+    "name": "Emmanuel Macron",
+    "short_name": "Emmanuel Macron",
+    "description": "Président de la République",
+    "roles": [
+      {
+        "label": "Président de la République"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0012",
+    "type": "organization",
+    "name": "CRE",
+    "short_name": "CRE",
+    "description": "Commission de régulation de l'énergie",
+    "roles": [
+      {
+        "label": "Commission de régulation de l'énergie"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0013",
+    "type": "organization",
+    "name": "DGE",
+    "short_name": "DGE",
+    "description": "Direction générale des entreprises",
+    "roles": [
+      {
+        "label": "Direction générale des entreprises"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0014",
+    "type": "organization",
+    "name": "Business France",
+    "short_name": "Business France",
+    "description": "Agence nationale",
+    "roles": [
+      {
+        "label": "Agence nationale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0015",
+    "type": "organization",
+    "name": "Nathalie Lemaître",
+    "short_name": "Nathalie Lemaître",
+    "description": "Directrice générale du pôle Clients Systèmes Innovation chez RTE",
+    "roles": [
+      {
+        "label": "Directrice générale du pôle Clients Systèmes Innovation chez RTE"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0016",
+    "type": "organization",
+    "name": "EDF",
+    "short_name": "EDF",
+    "description": "Énergéticien",
+    "roles": [
+      {
+        "label": "Énergéticien"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0017",
+    "type": "organization",
+    "name": "Étudiants amiénois",
+    "short_name": "Étudiants amiénois",
+    "description": "Bénéficiaires académiques",
+    "roles": [
+      {
+        "label": "Bénéficiaires académiques"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0018",
+    "type": "organization",
+    "name": "Entreprises et start-up utilisatrices",
+    "short_name": "Entreprises et start-up utilisatrices",
+    "description": "Bénéficiaires économiques",
+    "roles": [
+      {
+        "label": "Bénéficiaires économiques"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0019",
+    "type": "organization",
+    "name": "Mistral AI",
+    "short_name": "Mistral AI",
+    "description": "Acteur IA français",
+    "roles": [
+      {
+        "label": "Acteur IA français"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0020",
+    "type": "organization",
+    "name": "Eclairion",
+    "short_name": "Eclairion",
+    "description": "Opérateur de data center",
+    "roles": [
+      {
+        "label": "Opérateur de data center"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0021",
+    "type": "organization",
+    "name": "Anthropic",
+    "short_name": "Anthropic",
+    "description": "Entreprise IA",
+    "roles": [
+      {
+        "label": "Entreprise IA"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0022",
+    "type": "organization",
+    "name": "Google",
+    "short_name": "Google",
+    "description": "Multinationale tech",
+    "roles": [
+      {
+        "label": "Multinationale tech"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0023",
+    "type": "organization",
+    "name": "Nvidia",
+    "short_name": "Nvidia",
+    "description": "Fabricant de GPU",
+    "roles": [
+      {
+        "label": "Fabricant de GPU"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0024",
+    "type": "person",
+    "name": "Camille Ego",
+    "short_name": "Camille Ego",
+    "description": "Présidente de l'association locale",
+    "roles": [
+      {
+        "label": "Présidente de l'association locale"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0025",
+    "type": "organization",
+    "name": "Association du Bosquel et des villages voisins",
+    "short_name": "Association du Bosquel et des villages voisins",
+    "description": "Association locale de protection",
+    "roles": [
+      {
+        "label": "Association locale de protection"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0026",
+    "type": "organization",
+    "name": "Ancien membre de la Dreal",
+    "short_name": "Ancien membre de la Dreal",
+    "description": "Expert technique anonyme",
+    "roles": [
+      {
+        "label": "Expert technique anonyme"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0027",
+    "type": "person",
+    "name": "Robert Fievet",
+    "short_name": "Robert Fievet",
+    "description": "Habitant d'Amiens",
+    "roles": [
+      {
+        "label": "Habitant d'Amiens"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0028",
+    "type": "person",
+    "name": "Martine Delépine",
+    "short_name": "Martine Delépine",
+    "description": "Maire du Bosquel",
+    "roles": [
+      {
+        "label": "Maire du Bosquel"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0029",
+    "type": "person",
+    "name": "Sylvain Charbonnier",
+    "short_name": "Sylvain Charbonnier",
+    "description": "Maire de Molliens-Dreuil",
+    "roles": [
+      {
+        "label": "Maire de Molliens-Dreuil"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0030",
+    "type": "organization",
+    "name": "Rollon Mouchel-Blaisot",
+    "short_name": "Rollon Mouchel-Blaisot",
+    "description": "Préfet de la Somme",
+    "roles": [
+      {
+        "label": "Préfet de la Somme"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0031",
+    "type": "organization",
+    "name": "Préfecture de la Somme",
+    "short_name": "Préfecture de la Somme",
+    "description": "Administration territoriale d’État",
+    "roles": [
+      {
+        "label": "Administration territoriale d’État"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0032",
+    "type": "organization",
+    "name": "Région Hauts-de-France",
+    "short_name": "Région Hauts-de-France",
+    "description": "Collectivité régionale",
+    "roles": [
+      {
+        "label": "Collectivité régionale"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0033",
+    "type": "organization",
+    "name": "Dreal des Hauts-de-France",
+    "short_name": "Dreal des Hauts-de-France",
+    "description": "Administration environnementale",
+    "roles": [
+      {
+        "label": "Administration environnementale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0034",
+    "type": "organization",
+    "name": "Commissaire-enquêteur",
+    "short_name": "Commissaire-enquêteur",
+    "description": "Autorité indépendante",
+    "roles": [
+      {
+        "label": "Autorité indépendante"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0035",
+    "type": "organization",
+    "name": "SoftBank Group",
+    "short_name": "SoftBank Group",
+    "description": "Groupe technologique japonais",
+    "roles": [
+      {
+        "label": "Groupe technologique japonais"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0036",
+    "type": "person",
+    "name": "Masayoshi Son",
+    "short_name": "Masayoshi Son",
+    "description": "Patron-fondateur de SoftBank",
+    "roles": [
+      {
+        "label": "Patron-fondateur de SoftBank"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0037",
+    "type": "person",
+    "name": "Adam Westhead",
+    "short_name": "Adam Westhead",
+    "description": "Avocat d'affaires",
+    "roles": [
+      {
+        "label": "Avocat d'affaires"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0038",
+    "type": "organization",
+    "name": "Patriarche",
+    "short_name": "Patriarche",
+    "description": "Cabinet d'architecture",
+    "roles": [
+      {
+        "label": "Cabinet d'architecture"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0039",
+    "type": "person",
+    "name": "Damien Patriarche",
+    "short_name": "Damien Patriarche",
+    "description": "Architecte en chef",
+    "roles": [
+      {
+        "label": "Architecte en chef"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0040",
+    "type": "organization",
+    "name": "L’Européenne",
+    "short_name": "L’Européenne",
+    "description": "Ancien porteur foncier",
+    "roles": [
+      {
+        "label": "Ancien porteur foncier"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0041",
+    "type": "person",
+    "name": "Youssef El Manssouri",
+    "short_name": "Youssef El Manssouri",
+    "description": "Entrepreneur cofondateur de Sesterce",
+    "roles": [
+      {
+        "label": "Entrepreneur cofondateur de Sesterce"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0042",
+    "type": "organization",
+    "name": "Anthony Tchakerian",
+    "short_name": "Anthony Tchakerian",
+    "description": "Dirigeant associé de Sesterce",
+    "roles": [
+      {
+        "label": "Dirigeant associé de Sesterce"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0043",
+    "type": "organization",
+    "name": "AC-DC Rovaltain",
+    "short_name": "AC-DC Rovaltain",
+    "description": "Collectif d'opposants de la Drôme",
+    "roles": [
+      {
+        "label": "Collectif d'opposants de la Drôme"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0044",
+    "type": "organization",
+    "name": "Cloud Temple",
+    "short_name": "Cloud Temple",
+    "description": "Acteur de datacenter (Oise)",
+    "roles": [
+      {
+        "label": "Acteur de datacenter (Oise)"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0045",
+    "type": "person",
+    "name": "Emilie Piette",
+    "short_name": "Emilie Piette",
+    "description": "Présidente de RTE",
+    "roles": [
+      {
+        "label": "Présidente de RTE"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0046",
+    "type": "person",
+    "name": "Xavier Bertrand",
+    "short_name": "Xavier Bertrand",
+    "description": "Président de la Région Hauts-de-France",
+    "roles": [
+      {
+        "label": "Président de la Région Hauts-de-France"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0047",
+    "type": "person",
+    "name": "Me Louis Cofflard",
+    "short_name": "Me Louis Cofflard",
+    "description": "Avocat d'Assez-DC",
+    "roles": [
+      {
+        "label": "Avocat d'Assez-DC"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0048",
+    "type": "organization",
+    "name": "Assez Datacenter (Assez-DC)",
+    "short_name": "Assez Datacenter (Assez-DC)",
+    "description": "Collectif citoyen d'Alixan",
+    "roles": [
+      {
+        "label": "Collectif citoyen d'Alixan"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0049",
+    "type": "organization",
+    "name": "Les Soulèvements de la Terre",
+    "short_name": "Les Soulèvements de la Terre",
+    "description": "Mouvement écologiste",
+    "roles": [
+      {
+        "label": "Mouvement écologiste"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0050",
+    "type": "person",
+    "name": "Nicolas Daragon",
+    "short_name": "Nicolas Daragon",
+    "description": "Président Valence Romans Agglo",
+    "roles": [
+      {
+        "label": "Président Valence Romans Agglo"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0051",
+    "type": "organization",
+    "name": "Schneider Electric",
+    "short_name": "Schneider Electric",
+    "description": "Industriel de l'énergie",
+    "roles": [
+      {
+        "label": "Industriel de l'énergie"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0052",
+    "type": "organization",
+    "name": "Data4 / Brookfield",
+    "short_name": "Data4 / Brookfield",
+    "description": "Opérateurs et fonds d'investissement",
+    "roles": [
+      {
+        "label": "Opérateurs et fonds d'investissement"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0053",
+    "type": "organization",
+    "name": "Friche Ynsect (Poulainville)",
+    "short_name": "Friche Ynsect (Poulainville)",
+    "description": "Site industriel en reconversion",
+    "roles": [
+      {
+        "label": "Site industriel en reconversion"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0054",
+    "type": "organization",
+    "name": "Banque des territoires",
+    "short_name": "Banque des territoires",
+    "description": "Institution financière publique",
+    "roles": [
+      {
+        "label": "Institution financière publique"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0055",
+    "type": "person",
+    "name": "Hadrien Godard",
+    "short_name": "Hadrien Godard",
+    "description": "Ancien représentant des salariés",
+    "roles": [
+      {
+        "label": "Ancien représentant des salariés"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0056",
+    "type": "person",
+    "name": "Grégory Berkovicz",
+    "short_name": "Grégory Berkovicz",
+    "description": "Avocat au cabinet GB2A accompagnant le projet du Bosquel",
+    "roles": [
+      {
+        "label": "Avocat au cabinet GB2A accompagnant le projet du Bosquel"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0057",
+    "type": "person",
+    "name": "GB2A",
+    "short_name": "GB2A",
+    "description": "Cabinet d’avocats accompagnant juridiquement le projet du Bosquel",
+    "roles": [
+      {
+        "label": "Cabinet d’avocats accompagnant juridiquement le projet du Bosquel"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0058",
+    "type": "organization",
+    "name": "Silver Bands France Computer Center Bosquel",
+    "short_name": "Silver Bands France Computer Center Bosquel",
+    "description": "Lauréat du second AMI et structure porteuse du projet du Bosquel",
+    "roles": [
+      {
+        "label": "Lauréat du second AMI et structure porteuse du projet du Bosquel"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0059",
+    "type": "organization",
+    "name": "CC2SO",
+    "short_name": "CC2SO",
+    "description": "Communauté de communes Somme Sud-Ouest, propriétaire publique du foncier",
+    "roles": [
+      {
+        "label": "Communauté de communes Somme Sud-Ouest, propriétaire publique du foncier"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0060",
+    "type": "organization",
+    "name": "SoftBank Group",
+    "short_name": "SoftBank Group",
+    "description": "Groupe technologique japonais, financeur stratégique du projet et du programme français de datacenters IA",
+    "roles": [
+      {
+        "label": "Groupe technologique japonais, financeur stratégique du projet et du programme français de datacenters IA"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0061",
+    "type": "organization",
+    "name": "Sesterce",
+    "short_name": "Sesterce",
+    "description": "Société française opératrice associée à SoftBank dans le projet du Bosquel",
+    "roles": [
+      {
+        "label": "Société française opératrice associée à SoftBank dans le projet du Bosquel"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0062",
+    "type": "organization",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Gestionnaire du réseau de transport chargé du raccordement électrique du campus",
+    "roles": [
+      {
+        "label": "Gestionnaire du réseau de transport chargé du raccordement électrique du campus"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0063",
+    "type": "entity",
+    "name": "ZAC du Bosquel",
+    "short_name": "ZAC du Bosquel",
+    "description": "Site de 46 hectares, dont 33 hectares dédiés au futur opérateur et 13 hectares vendus à RTE pour le raccordement.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0064",
+    "type": "entity",
+    "name": "Lignes haute tension",
+    "short_name": "Lignes haute tension",
+    "description": "Deux lignes haute tension traversent ou alimentent le site, constituant un facteur d’attractivité pour un projet très consommateur d’électricité.",
+    "roles": [
+      {
+        "label": "Énergie / raccordement"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0065",
+    "type": "issue",
+    "name": "Inquiétude sur l’eau",
+    "short_name": "Inquiétude sur l’eau",
+    "description": "Point de tension majeur renforcé par les volumes d'eau requis, les risques de sécheresse, les conflits d'usage et la compatibilité avec le SAGE.",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0066",
+    "type": "issue",
+    "name": "Nappe phréatique",
+    "short_name": "Nappe phréatique",
+    "description": "Ressource hydrique dont la capacité est interrogée au regard des usages existants et du futur projet.",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0067",
+    "type": "issue",
+    "name": "Crédibilité des porteurs de projet",
+    "short_name": "Crédibilité des porteurs de projet",
+    "description": "Sujet soulevé par RTE : sortir de la logique premier demandeur, premier servi pour privilégier les projets réellement matures.",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0068",
+    "type": "issue",
+    "name": "Abandon de Fluidstack",
+    "short_name": "Abandon de Fluidstack",
+    "description": "Épisode qui fragilise le plan IA français. Les sources évoquent un désaccord financier interne.",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0069",
+    "type": "issue",
+    "name": "Souveraineté numérique",
+    "short_name": "Souveraineté numérique",
+    "description": "Argument central du projet mis en avant par le préfet, mais interrogé face aux capitaux étrangers (SoftBank).",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0070",
+    "type": "media",
+    "name": "Courrier picard",
+    "short_name": "Courrier picard",
+    "description": "Source locale principale sur le choix du lauréat de l’AMI, les débats de la CC2SO et les contributions d'habitants.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0071",
+    "type": "media",
+    "name": "La Tribune",
+    "short_name": "La Tribune",
+    "description": "Relaye l’abandon de Fluidstack et l’arbitrage économique en faveur des États-Unis.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0072",
+    "type": "media",
+    "name": "Le Figaro",
+    "short_name": "Le Figaro",
+    "description": "Couvre le retrait de Fluidstack et ses conséquences sur le projet de Bosquel.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0073",
+    "type": "media",
+    "name": "DCmag",
+    "short_name": "DCmag",
+    "description": "Le média spécialisé suit les infrastructures data centers et l’ouverture de l’AMI du Bosquel.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0074",
+    "type": "media",
+    "name": "L’Usine Nouvelle",
+    "short_name": "L’Usine Nouvelle",
+    "description": "Analyse la politique de raccordement électrique de RTE pour les datacenters.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0075",
+    "type": "media",
+    "name": "Next INpact",
+    "short_name": "Next INpact",
+    "description": "Analyse les sites Fast Track, les capacités sécurisées et les annonces gouvernementales.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0076",
+    "type": "media",
+    "name": "Services RTE",
+    "short_name": "Services RTE",
+    "description": "Source institutionnelle sur la pré-réservation de capacité et la prolongation du site du Bosquel.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0077",
+    "type": "issue",
+    "name": "Association de protection du Bosquel et des villages voisins",
+    "short_name": "Association de protection du Bosquel",
+    "description": "Association locale portant les inquiétudes concrètes des riverains face aux nuisances de proximité et aux risques écologiques locaux.",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0078",
+    "type": "issue",
+    "name": "Ancien membre de la Dreal des Hauts-de-France",
+    "short_name": "Ex-membre Dreal (Expert Anonyme)",
+    "description": "Expert technique anonyme. Alerte sur les volumes d'eau massifs nécessaires, la compatibilité réglementaire avec le SAGE et l'absence de traitement du sujet dans l'AMI.",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0079",
+    "type": "media",
+    "name": "Mediacités",
+    "short_name": "Mediacités",
+    "description": "Média d'investigation locale indépendant. Révélateur des clauses financières d'indemnisation avec L'Européenne, de l'opacité perçue du montage et des doutes techniques.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0080",
+    "type": "media",
+    "name": "ici Picardie",
+    "short_name": "ici Picardie",
+    "description": "Média de proximité. A diffusé l'interview exclusive détaillant la posture de prudence de Martine Delépine.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0081",
+    "type": "media",
+    "name": "France 3 Hauts-de-France",
+    "short_name": "France 3 Hauts-de-France",
+    "description": "Chaîne publique régionale. Source d'informations clés sur le calendrier de déploiement et les arbitrages préfectoraux.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0082",
+    "type": "media",
+    "name": "info.fr",
+    "short_name": "info.fr",
+    "description": "Portail d'actualités économiques ayant couvert les prises de parole officielles de la préfecture de la Somme.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0083",
+    "type": "media",
+    "name": "Bloomberg",
+    "short_name": "Bloomberg",
+    "description": "Agence d'information financière internationale. Source de référence concernant les dynamiques globales de retrait de Fluidstack.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0084",
+    "type": "media",
+    "name": "L’Informé",
+    "short_name": "L’Informé",
+    "description": "Média d'investigation économique ayant mis au jour le différend commercial opposant Sesterce à Mistral AI.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0085",
+    "type": "media",
+    "name": "Les Électrons libres",
+    "short_name": "Les Électrons libres",
+    "description": "Média spécialisé dans l'énergie. A documenté l'hypothèse d'un désaccord de nature strictement financière concernant le pivot de Fluidstack.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0086",
+    "type": "media",
+    "name": "actu.fr",
+    "short_name": "actu.fr",
+    "description": "Réseau d'information locale ayant apporté des précisions géographiques sur l'emprise foncière exacte de la ZAC.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0087",
+    "type": "issue",
+    "name": "Assez Datacenter",
+    "short_name": "Assez-DC",
+    "description": "Collectif attaquant le permis de construire du data center d'Alixan.",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0088",
+    "type": "issue",
+    "name": "Attac",
+    "short_name": "Attac",
+    "description": "Association altermondialiste impliquée dans le recours.",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0089",
+    "type": "issue",
+    "name": "Les Amis de la Terre",
+    "short_name": "Amis Terre",
+    "description": "Association écologiste impliquée dans le recours contre Sesterce.",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0090",
+    "type": "entity",
+    "name": "Data4",
+    "short_name": "Data4",
+    "description": "Opérateur bénéficiaire du fast track à Cambrai.",
+    "roles": [
+      {
+        "label": "Porteur / lauréat industriel"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0091",
+    "type": "entity",
+    "name": "Brookfield",
+    "short_name": "Brookfield",
+    "description": "Fonds d'investissement impliqué sur le site de Cambrai.",
+    "roles": [
+      {
+        "label": "Porteur / lauréat industriel"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0092",
+    "type": "issue",
+    "name": "Faille ICPE / Sécurité",
+    "short_name": "Faille ICPE",
+    "description": "Accusation de minoration de puissance pour éviter l'enquête publique.",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0093",
+    "type": "issue",
+    "name": "Spéculation capacitaire",
+    "short_name": "Spéculation",
+    "description": "Problématique des réservations électriques abusives selon RTE.",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0094",
+    "type": "media",
+    "name": "BFMTV",
+    "short_name": "BFMTV",
+    "description": "Couverture des enjeux de raccordement RTE.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0095",
+    "type": "media",
+    "name": "Libération",
+    "short_name": "Libération",
+    "description": "Couverture du recours juridique dans la Drôme.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0096",
+    "type": "media",
+    "name": "L'Opinion",
+    "short_name": "L'Opinion",
+    "description": "Analyse sur la souveraineté et l'acceptation locale.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0097",
+    "type": "issue",
+    "name": "Ynsect",
+    "short_name": "Friche Ynsect",
+    "description": "Ancien site industriel à Poulainville, pressenti pour accueillir un nouveau data center de 700 MW.",
+    "roles": [
+      {
+        "label": "Positions critiques / points de vigilance"
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  }
+]

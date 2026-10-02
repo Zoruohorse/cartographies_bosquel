@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "claim_0001",
+    "subject_id": "actor_0001",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Entité annoncée comme devant être créée avec siège au Bosquel et obligation de travailler avec les étudiants amiénois.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0002",
+    "subject_id": "actor_0002",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Finalement abandonné au profit d’une réorientation vers les États-Unis.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0003",
+    "subject_id": "actor_0003",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Défend le projet, rappelle l’urgence de choisir un opérateur avant l’échéance Fast Track et promet une présentation aux riverains.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0004",
+    "subject_id": "actor_0004",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Répond aux inquiétudes sur l’eau en évoquant un circuit fermé et une consommation de 265 m³/an.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0005",
+    "subject_id": "actor_0005",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Exprime une inquiétude légitime sur les besoins en eau et demande une étude indépendante sur la nappe phréatique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0006",
+    "subject_id": "actor_0006",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Lieu de la réunion communautaire durant laquelle le choix du lauréat de l’AMI est présenté.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0007",
+    "subject_id": "actor_0007",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Demande à RTE de pré-réserver une capacité de 1 GW sur le site du Bosquel ; inscrit le site dans la logique Fast Track.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0008",
+    "subject_id": "actor_0008",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Suit de près la sécurisation des investissements IA et la sélection des sites stratégiques de centres de données.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0009",
+    "subject_id": "actor_0009",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Associée aux Rencontres des centres de données et au suivi des sites sécurisés.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0010",
+    "subject_id": "actor_0010",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Cité comme ayant annoncé une liste de sites industriels clés en main dédiés aux data centers.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0011",
+    "subject_id": "actor_0011",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Porteur politique du plan IA. A directement rencontré Masayoshi Son (SoftBank) dans le cadre de la relance du projet du Bosquel.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0012",
+    "subject_id": "actor_0012",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "A approuvé la procédure spécifique de raccordement rapide pour installations de très forte puissance.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0012"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0013",
+    "subject_id": "actor_0013",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Citée dans l’accompagnement des porteurs de projets via la Task Force de l’État.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0013"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0014",
+    "subject_id": "actor_0014",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Membre de la Task Force de l’État accompagnant les entreprises de data centers.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0014"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0015",
+    "subject_id": "actor_0015",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Alerte sur les capacités réservées et la nécessité de servir les projets les plus crédibles.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0016",
+    "subject_id": "actor_0016",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Acteur proposant ou identifiant des sites d’implantation possibles en Picardie.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0016"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0017",
+    "subject_id": "actor_0017",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Le futur opérateur doit travailler avec eux, selon les obligations évoquées par la CC2SO.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0017"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0018",
+    "subject_id": "actor_0018",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Des espaces doivent être dédiés aux entreprises souhaitant utiliser la puissance du supercalculateur.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0018"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0019",
+    "subject_id": "actor_0019",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Symbole des besoins en calcul souverain ; fait l'objet d'un différend commercial distinct avec Sesterce.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0020",
+    "subject_id": "actor_0020",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Cité dans le contexte du retrait de Fluidstack sur un projet en région parisienne.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0020"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0021",
+    "subject_id": "actor_0021",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Client américain de Fluidstack dans le cadre d’un contrat massif aux États-Unis.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0021"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0022",
+    "subject_id": "actor_0022",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Investisseur potentiel dans Fluidstack, renforçant l’attraction américaine.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0022"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0023",
+    "subject_id": "actor_0023",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Fournisseur dont les délais conditionnent les projets de calcul IA.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0023"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0024",
+    "subject_id": "actor_0024",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Dénonce l’opacité, le manque d'information des habitants, la proximité immédiate avec les habitations, le bruit et les risques liés à l'eau.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0024"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0025",
+    "subject_id": "actor_0025",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Porte les inquiétudes concrètes des riverains face aux nuisances de proximité et aux risques écologiques locaux.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0025"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0026",
+    "subject_id": "actor_0026",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Alerte sur les volumes d'eau massifs nécessaires, la compatibilité réglementaire avec le SAGE et l'absence de traitement du sujet dans l'AMI.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0026"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0027",
+    "subject_id": "actor_0027",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Auteur d'une contribution critique nuancée sur l'artificialisation des terres, la sécheresse et le faible ratio emplois/investissement.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0027"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0028",
+    "subject_id": "actor_0028",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Prudente et inquiète, reconnaît la disproportion du projet et les risques de conflits d'usage, tout en estimant complexe de s'y opposer.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0028"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0029",
+    "subject_id": "actor_0029",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Prudent et ambigu ; juge le montant du dédommagement transactionnel à L’Européenne 'très élevé'.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0029"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0030",
+    "subject_id": "actor_0030",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Présente le campus comme un enjeu de souveraineté et assure publiquement que l'impact sur l'eau sera minime.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0030"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0031",
+    "subject_id": "actor_0031",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Assure le cadrage, le suivi des procédures et porte la présentation publique officielle du projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0031"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0032",
+    "subject_id": "actor_0032",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Partenaire clé de la CC2SO, désignée comme future cogestionnaire du fonds de dotation de 10 M€.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0033",
+    "subject_id": "actor_0033",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Citée indirectement dans le corpus via les alertes techniques d'un ex-agent.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0033"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0034",
+    "subject_id": "actor_0034",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Avait rendu un avis défavorable motivé sur l'ancien projet logistique du site en raison des nuisances.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0034"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0035",
+    "subject_id": "actor_0035",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Financeur et actionnaire majoritaire de la coentreprise porteuse du projet avec Sesterce ; pivot financier du dossier.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0036",
+    "subject_id": "actor_0036",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "A dévoilé l'envergure de l'investissement et s'est entretenu directement avec Emmanuel Macron.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0037",
+    "subject_id": "actor_0037",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Dirigeant direct identifié de la structure Silver Bands France, rattaché à SoftBank.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0037"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0038",
+    "subject_id": "actor_0038",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Sélectionné pour concevoir et superviser le futur complexe technologique du Bosquel.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0038"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0039",
+    "subject_id": "actor_0039",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Défend l'intégration paysagère fine du bâti et le recours impératif à un système de refroidissement en circuit fermé.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0040",
+    "subject_id": "actor_0040",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Bénéficiaire d'un accord transactionnel financier avec la CC2SO pour bloquer tout recours futur.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0040"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0041",
+    "subject_id": "actor_0041",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Impliqué dans les négociations industrielles du projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0041"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0042",
+    "subject_id": "actor_0042",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Également lié à un projet parallèle implanté dans la Drôme.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0042"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0043",
+    "subject_id": "actor_0043",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "A contesté un projet de Sesterce et mis en évidence un décalage sur les chiffres réels de l'emploi.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0043"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0044",
+    "subject_id": "actor_0044",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Mobilisé dans le corpus uniquement comme référence technique de comparaison de puissance électrique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0045",
+    "subject_id": "actor_0045",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Alerte sur le volume record de raccordements (33 GW) et annonce une nouvelle doctrine anti-spéculation.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0045"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0046",
+    "subject_id": "actor_0046",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Défend l'implantation de l'IA Factory au Bosquel comme un atout industriel majeur pour son territoire.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0046"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0047",
+    "subject_id": "actor_0047",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Dénonce les lacunes techniques du dossier Sesterce, notamment le dimensionnement des groupes électrogènes pour contourner l'enquête publique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0048",
+    "subject_id": "actor_0048",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Porte le recours juridique en référé-suspension contre le projet Sesterce de la Drôme.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0048"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0049",
+    "subject_id": "actor_0049",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Participe activement à la structuration de l'opposition juridique et militante contre l'artificialisation et la consommation énergétique de l'IA.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0049"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0050",
+    "subject_id": "actor_0050",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Soutient les investissements de Sesterce sur son territoire pour l'attractivité économique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0050"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0051",
+    "subject_id": "actor_0051",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Associé au plan de déploiement massif de 45 milliards d'euros porté par SoftBank dans les Hauts-de-France.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0051"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0052",
+    "subject_id": "actor_0052",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Porteurs du mégaprojet concurrent ou parallèle situé à Cambrai, soumis aux mêmes contraintes RTE.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0052"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0053",
+    "subject_id": "actor_0053",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Site voisin du Bosquel bénéficiant d'un raccordement de 700 MW et pressenti pour devenir un second pôle électro-intensif.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0053"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0054",
+    "subject_id": "actor_0054",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Accompagne l'État et RTE dans le financement et la structuration de la reconversion industrielle de la friche voisine d'Ynsect.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0054"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0055",
+    "subject_id": "actor_0055",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Estime que l'usine Ynsect a été pensée dès l'origine pour du stockage de données et dénonce la consommation d'eau et d'électricité à venir.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0055"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0056",
+    "subject_id": "actor_0056",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Présente le dossier comme un cas d’école de professionnalisation des appels à projets, défend le bail à construction et appelle la filière à adopter des calendriers réalistes ainsi qu’une approche juridique, financière et technique plus mature.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0056"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0057",
+    "subject_id": "actor_0057",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Intervient dans la structuration juridique et la professionnalisation du processus d’attribution conduit autour du second appel à manifestation d’intérêt.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0057"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0058",
+    "subject_id": "actor_0058",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Choisi à l’issue du second appel à manifestation d’intérêt, avec une attribution décidée par le conseil communautaire en mai 2026, pour porter le campus de calcul associé à SoftBank Group et Sesterce.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0058"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0059",
+    "subject_id": "actor_0059",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Pilote le second AMI et conserve la propriété du sol au moyen d’un bail à construction, présenté comme un instrument de souveraineté foncière et de maîtrise publique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0059"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0060",
+    "subject_id": "actor_0060",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Inscrit le Bosquel dans un programme national couvrant plusieurs sites des Hauts-de-France, avec 45 milliards d’euros annoncés d’ici 2031 et une enveloppe susceptible d’atteindre 75 milliards d’euros à terme.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0060"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0061",
+    "subject_id": "actor_0061",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Confirme son rôle opérationnel dans le campus, mais reste exposée à des interrogations sur ses capacités financières, industrielles et d’exploitation à l’échelle d’un projet pouvant atteindre 1 400 MW.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0061"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0062",
+    "subject_id": "actor_0062",
+    "project_id": "project_bosquel",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Doit créer un poste électrique dans l’emprise du projet et modifier les liaisons aériennes à 400 000 V adjacentes afin de permettre le raccordement des deux tranches du campus.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0062"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  }
+]
