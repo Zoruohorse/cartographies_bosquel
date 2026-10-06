@@ -19,9 +19,7 @@ function render() {
   count.textContent = `${list.length} acteurs affichés sur ${d.actors.filter(a => a.categories && !hiddenCats.includes(a.categories[0])).length}`;
   grid.innerHTML = list.map(a => {
     const c = actorClaim(d, a.id);
-    return `<article class="card" data-id="${a.id}" style="--stance:${stanceColor(c?.value)}"><h3>${esc(a.name)}</h3><div class="role">${esc(a.description)}</div><p class="position">${esc(c?.summary || 'Position non renseignée')}</p><div class="footer"><span class="badge">${esc(d.taxonomy.stances[c?.value]?.label || 'Non qualifié')}</span><span>Certitude : ${esc(d.taxonomy.certainty_levels[c?.certainty]?.label || 'Non qualifiée')}</span></div></article>`;
-  }).join('');
-}
+    return `<div class="relation"><button data-open="${other?.id}">${esc(other?.name || 'Acteur inconnu')}</button><div><b>${esc(d.taxonomy.relation_types[r.type]?.label || r.type)}</b></div><p>${esc(r.summary)}</p><small>Certitude : ${esc(d.taxonomy.certainty_levels[r.certainty]?.label || r.certainty)} ·${(r.evidence_ids || []).length} preuve(s)</small></div>`;
 function open(id) {
   const a = d.actorById.get(id), c = actorClaim(d, id), rel = d.relations.filter(r => r.source_id === id || r.target_id === id);
   detail.innerHTML = `<h2>${esc(a.name)}</h2><p class="role">${esc(a.description)}</p><h3>Position</h3><p>${esc(c?.summary || 'Non renseignée')}</p><p><b>Certitude :</b> ${esc(d.taxonomy.certainty_levels[c?.certainty]?.label || 'Non qualifiée')}</p><h3>Preuves et sources</h3>${evidenceHtml(d, c?.evidence_ids)}<h3>Relations documentables</h3>${rel.length ? rel.map(r => {
